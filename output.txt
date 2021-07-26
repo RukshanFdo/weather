@@ -1,0 +1,8 @@
+------------------------------------------------------------- 
+ Weather Stats for - NEGOMBO  || 27 Jul 2021 | 01:06:40 AM
+ ------------------------------------------------------------- 
+Current temperature is: 26.03 deg C
+Current weather desc  :,broken clouds 
+Current Humidity      :,94,% 
+Current wind speed    :,2.57,kmph 
+====================================================
